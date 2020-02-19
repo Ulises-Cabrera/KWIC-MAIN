@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="debugger-app-2.0.13">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/PDF Java/debugger-app-2.0.13.jar!/" />
+      <root url="jar://$PROJECT_DIR$/PDF Java/fontbox-2.0.13.jar!/" />
+      <root url="jar://$PROJECT_DIR$/PDF Java/pdfbox-2.0.13.jar!/" />
+      <root url="jar://$PROJECT_DIR$/PDF Java/pdfbox-app-2.0.13.jar!/" />
+      <root url="jar://$PROJECT_DIR$/PDF Java/pdfbox-debugger-2.0.13.jar!/" />
+      <root url="jar://$PROJECT_DIR$/PDF Java/pdfbox-tools-2.0.13.jar!/" />
+      <root url="jar://$PROJECT_DIR$/PDF Java/preflight-2.0.13.jar!/" />
+      <root url="jar://$PROJECT_DIR$/PDF Java/preflight-app-2.0.13.jar!/" />
+      <root url="jar://$PROJECT_DIR$/PDF Java/xmpbox-2.0.13.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
